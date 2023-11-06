@@ -1,0 +1,3 @@
+CursoPrueba1,100,7:00 - 8:00,456,100,Catedratico1,Mensaje de Bienvenida al CursoPrueba1
+Diego,Perez,Diego26,100,99
+Usuario,Prueba,Usuario123,95,98

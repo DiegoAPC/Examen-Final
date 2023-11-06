@@ -1,0 +1,2 @@
+Diego26,CursoPrueba1,100
+Usuario123,CursoPrueba1,95

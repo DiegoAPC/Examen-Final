@@ -1,0 +1,2 @@
+CursoPrueba1,Catedratico1
+CursoPrueba2,Catedratico1
